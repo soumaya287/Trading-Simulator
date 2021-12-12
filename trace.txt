@@ -1,0 +1,1 @@
+date debut simulation: 4/1/2010; duree: 2jour(s); solde initiale: 55;montant gain: 0;Gain: 0 %

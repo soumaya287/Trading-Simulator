@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1622972117 source:c:\users\hp\desktop\simulationtrading\simulationtrading\main.cpp
+	"Simaulation.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	<list>
+
+1622966985 c:\users\hp\desktop\simulationtrading\simulationtrading\simaulation.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	<list>
+
+1622973888 source:c:\users\hp\desktop\simulationtrading\simulationtrading\simaulation.cpp
+	<iostream>
+	"Simaulation.h"
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	<list>
+
+1623081039 source:c:\users\user\downloads\simulationtrading\simulationtrading\main.cpp
+	"Simaulation.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	<list>
+	<windows.h>
+
+1623064564 c:\users\user\downloads\simulationtrading\simulationtrading\simaulation.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	<list>
+
+1623085306 source:c:\users\user\downloads\simulationtrading\simulationtrading\simaulation.cpp
+	<iostream>
+	"Simaulation.h"
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	<list>
+	<algorithm>
+	<stdexcept>
+
+1623117700 source:c:\users\user\documents\soumaya\c++\simulationtrading\simulationtrading\main.cpp
+	"Simaulation.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	<list>
+
+1623111042 c:\users\user\documents\soumaya\c++\simulationtrading\simulationtrading\simaulation.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	<list>
+
+1623119043 source:c:\users\user\documents\soumaya\c++\simulationtrading\simulationtrading\simaulation.cpp
+	<iostream>
+	"Simaulation.h"
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<cstdlib>
+	<time.h>
+	<list>
+	<algorithm>
+	<stdexcept>
+
